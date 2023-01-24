@@ -157,9 +157,9 @@ INSERT INTO studios (
    "Warner Bros.",
    1
 ), ("Warner Bros.",
-   2
+   1
 ), ("Warner Bros.",
-   3
+   1
 );
 
 INSERT INTO actors (
